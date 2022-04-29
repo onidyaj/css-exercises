@@ -39,6 +39,16 @@ input {
   padding: 16px;
 }
 
+.footer{
+  background-color: rgb(196, 194, 194);
+}
+
+a{
+  text-decoration: none;
+  color: rgb(88, 88, 88);
+  font-weight: 500;
+}
+
 ul{
   display: flex;
   list-style: none;
